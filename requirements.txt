@@ -16,3 +16,4 @@ pyudev==0.22.0
 ruamel.yaml==0.15.100
 uvloop==0.14.0
 voluptuous==0.11.7
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
